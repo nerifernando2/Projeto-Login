@@ -1,2 +1,1 @@
-# Projeto-Login
- 
+# Projeto-Login Usando C# com SQLServer , para fazer uma aplicação simples de Login , onde o usuário pode entrar com seu usuário ou até mesmo criar um novo usuário , e tudo fica registrado no banco de dados SQLServer.
